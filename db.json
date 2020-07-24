@@ -10,10 +10,10 @@
     { "id": 8, "imagePath": "https://picsum.photos/308/200", "title": "Случайное место 8", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua", "latitude": 50.787842, "longitude": 36.114234, "address": "Улица Пушкина, дом Колотушкина Квартира Петрова, спросить Вольнова"}
   ],
   "categories": [
-    { "name": "Стадион"},
     { "name": "Дворовые"},
     { "name": "Турники"},
     { "name": "Брусья"},
+    { "name": "Стадион"}, 
     { "name": "Пресс"},
     { "name": "Воркаут"},
     { "name": "Паркур"},
