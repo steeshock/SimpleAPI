@@ -9,8 +9,15 @@
     { "id": 7, "imagePath": "https://picsum.photos/307/200", "title": "Случайное место 7", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua", "latitude": 50.456456, "longitude": 36.887532, "address": "Улица Пушкина, дом Колотушкина Квартира Петрова, спросить Вольнова"},
     { "id": 8, "imagePath": "https://picsum.photos/308/200", "title": "Случайное место 8", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua", "latitude": 50.787842, "longitude": 36.114234, "address": "Улица Пушкина, дом Колотушкина Квартира Петрова, спросить Вольнова"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "categories": [
+    { "name": "Стадион"},
+    { "name": "Дворовые"},
+    { "name": "Турники"},
+    { "name": "Брусья"},
+    { "name": "Пресс"},
+    { "name": "Воркаут"},
+    { "name": "Паркур"},
+    { "name": "Бег"},
+    { "name": "Лестницы"}
   ]
 }
