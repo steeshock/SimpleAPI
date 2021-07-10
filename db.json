@@ -12,15 +12,15 @@
     { "id": 10, "imagePath": "https://picsum.photos/310/200", "title": "Случайное место 10", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua", "latitude": 50.456456, "longitude": 36.885532, "address": "Улица Пушкина, дом Колотушкина Квартира Петрова, спросить Вольнова"}
   ],
   "categories": [
-    { "name": "Дворовые"},
-    { "name": "Турники"},
-    { "name": "Брусья"},
-    { "name": "Стадион"}, 
-    { "name": "Пресс"},
-    { "name": "Воркаут"},
-    { "name": "Паркур"},
-    { "name": "Тренажеры"},
-    { "name": "Пробежка"},
-    { "name": "Лестницы"}
+    { "id": 1, "name": "Дворовые"},
+    { "id": 2, "name": "Турники"},
+    { "id": 3, "name": "Брусья"},
+    { "id": 4, "name": "Стадион"}, 
+    { "id": 5, "name": "Пресс"},
+    { "id": 6, "name": "Воркаут"},
+    { "id": 7, "name": "Паркур"},
+    { "id": 8, "name": "Тренажеры"},
+    { "id": 9, "name": "Пробежка"},
+    { "id": 10, "name": "Лестницы"}
   ]
 }
