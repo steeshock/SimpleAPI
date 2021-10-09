@@ -27,7 +27,7 @@
     "category_id" : 9,
     "category_name" : "Stairs"
   } ],
-  "places" : {
+  "places" : [
     "74baef01-adeb-4754-936e-35dfd06f7da0" : {
       "address" : "Odessa, Kansas, USA",
       "categories" : [ 3, 4 ],
@@ -58,5 +58,5 @@
       "place_uuid" : "74bcef01-adeb-4744-936e-35df305f7da0",
       "title" : "Test"
     }
-  }
+  ]
 }
