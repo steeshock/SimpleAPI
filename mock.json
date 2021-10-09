@@ -1,0 +1,62 @@
+{
+  "categories" : [ {
+    "category_id" : 1,
+    "category_name" : "Workout"
+  }, {
+    "category_id" : 2,
+    "category_name" : "Parkour"
+  }, {
+    "category_id" : 3,
+    "category_name" : "Bars"
+  }, {
+    "category_id" : 4,
+    "category_name" : "Stadium"
+  }, {
+    "category_id" : 5,
+    "category_name" : "Abs"
+  }, {
+    "category_id" : 6,
+    "category_name" : "Workout"
+  }, {
+    "category_id" : 7,
+    "category_name" : "Jogging"
+  }, {
+    "category_id" : 8,
+    "category_name" : "Yard"
+  }, {
+    "category_id" : 9,
+    "category_name" : "Stairs"
+  } ],
+  "places" : {
+    "74baef01-adeb-4754-936e-35dfd06f7da0" : {
+      "address" : "Odessa, Kansas, USA",
+      "categories" : [ 3, 4 ],
+      "created" : 1628541047528,
+      "images" : [ "https://firebasestorage.googleapis.com/v0/b/test-projects-b523c.appspot.com/o/74bcef01-adeb-4744-936e-35df306f7da0%2Fimage-1.jpg?alt=media&token=daf8d302-766c-44e2-99a2-f0119ca31b5c", "https://firebasestorage.googleapis.com/v0/b/test-projects-b523c.appspot.com/o/74bcef01-adeb-4744-936e-35df306f7da0%2Fimage-2.jpg?alt=media&token=70ecef20-d74f-4cfc-bbb6-5d8d69616d18", "https://firebasestorage.googleapis.com/v0/b/test-projects-b523c.appspot.com/o/74bcef01-adeb-4744-936e-35df306f7da0%2Fimage-3.jpg?alt=media&token=705e76bf-962c-4237-9579-f693343db6c0" ],
+      "latitude" : 38.511773,
+      "longitude" : 97.926733,
+      "place_uuid" : "74bcef01-adeb-4754-936e-35df306f7da0",
+      "title" : "Spot with bars and stairs"
+    },
+    "74bcef01-adeb-4744-936e-35df306f7da0" : {
+      "address" : "Tooel School District, Utah, USA",
+      "categories" : [ 1, 2, 5 ],
+      "created" : 1628541047525,
+      "images" : [ "https://firebasestorage.googleapis.com/v0/b/test-projects-b523c.appspot.com/o/74bcef01-adeb-4744-936e-35df306f7da0%2Fimage-0.jpg?alt=media&token=7a7203bf-0922-41ac-86eb-db9c4d057265", "https://firebasestorage.googleapis.com/v0/b/test-projects-b523c.appspot.com/o/74bcef01-adeb-4744-936e-35df306f7da0%2Fimage-1.jpg?alt=media&token=daf8d302-766c-44e2-99a2-f0119ca31b5c", "https://firebasestorage.googleapis.com/v0/b/test-projects-b523c.appspot.com/o/74bcef01-adeb-4744-936e-35df306f7da0%2Fimage-2.jpg?alt=media&token=70ecef20-d74f-4cfc-bbb6-5d8d69616d18", "https://firebasestorage.googleapis.com/v0/b/test-projects-b523c.appspot.com/o/74bcef01-adeb-4744-936e-35df306f7da0%2Fimage-3.jpg?alt=media&token=705e76bf-962c-4237-9579-f693343db6c0" ],
+      "latitude" : 40.567336,
+      "longitude" : 112.409626,
+      "place_uuid" : "74bcef01-adeb-4744-936e-35df306f7da0",
+      "title" : "Street workout in High School"
+    },
+	"74bcef01-adeb-4744-936e-35df305f7da0" : {
+      "address" : "Test address",
+      "categories" : [ 2, 3 ],
+      "created" : 1628541047655,
+      "images" : [ "https://firebasestorage.googleapis.com/v0/b/test-projects-b523c.appspot.com/o/74bcef01-adeb-4744-936e-35df306f7da0%2Fimage-2.jpg?alt=media&token=70ecef20-d74f-4cfc-bbb6-5d8d69616d18", "https://firebasestorage.googleapis.com/v0/b/test-projects-b523c.appspot.com/o/74bcef01-adeb-4744-936e-35df306f7da0%2Fimage-3.jpg?alt=media&token=705e76bf-962c-4237-9579-f693343db6c0" ],
+      "latitude" : 42.687336,
+      "longitude" : 142.909626,
+      "place_uuid" : "74bcef01-adeb-4744-936e-35df305f7da0",
+      "title" : "Test"
+    }
+  }
+}
