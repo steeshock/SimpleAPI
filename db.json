@@ -28,7 +28,6 @@
     "category_name" : "Stairs"
   } ],
   "places" : [ {
-    "74baef01-adeb-4754-936e-35dfd06f7da0" : {
       "address" : "Odessa, Kansas, USA",
       "categories" : [ 3, 4 ],
       "created" : 1628541047528,
@@ -37,8 +36,7 @@
       "longitude" : 97.926733,
       "place_uuid" : "74bcef01-adeb-4754-936e-35df306f7da0",
       "title" : "Spot with bars and stairs"
-    },
-    "74bcef01-adeb-4744-936e-35df306f7da0" : {
+    }, {
       "address" : "Tooel School District, Utah, USA",
       "categories" : [ 1, 2, 5 ],
       "created" : 1628541047525,
@@ -47,8 +45,7 @@
       "longitude" : 112.409626,
       "place_uuid" : "74bcef01-adeb-4744-936e-35df306f7da0",
       "title" : "Street workout in High School"
-    },
-	"74bcef01-adeb-4744-936e-35df305f7da0" : {
+    }, {
       "address" : "Test address",
       "categories" : [ 2, 3 ],
       "created" : 1628541047655,
@@ -58,5 +55,5 @@
       "place_uuid" : "74bcef01-adeb-4744-936e-35df305f7da0",
       "title" : "Test"
     }
-  } ]
+   ]
 }
